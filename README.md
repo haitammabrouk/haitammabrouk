@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **haitammk0708@gmail.com**
 
-- ⚡ Fun fact **Basketball Player and Part Time Content Creator**
+- ⚡ Fun fact **I'm A Basketball Player and Part Time Content Creator**
 
 <h3 align="left">Connect with me:</h3>
 
