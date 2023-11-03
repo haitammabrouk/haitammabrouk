@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haitam Mabrouk</h1>
 <h3 align="center">I'm a software engineering student and a data science enthusiast</h3>
 
-- 🌱 I’m currently learning **I'm currently learning Angular along with advanced TypeScript features**
+- 🌱 I’m currently learning **Angular along with advanced TypeScript features**
 
 - 💬 Ask me about **anything related to JAVA**
 
