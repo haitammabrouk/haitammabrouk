@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haitam Mabrouk</h1>
 <h3 align="center">I'm a software engineering student and a data science enthusiast</h3>
 
-- 🌱 I’m currently learning *about compilers and interpreters (some black magic stuff)*
+- 🌱 I’m currently learning **about compilers and interpreters (some black magic stuff)**
 
-- 💬 Ask me about **anything related to JAVA**
+- 💬 Ask me about **anything related to Java**
 
 - 📫 How to reach me **haitammk0708@gmail.com**
 
