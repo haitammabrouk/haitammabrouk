@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haitam Mabrouk</h1>
-<h3 align="center">I'm a software engineering student</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **about compilers and interpreters (some black magic stuff)**
-
-- 💬 Ask me about **anything related to Java**
+- 💬 Ask me about **anything related to Java, Go**
 
 - 📫 How to reach me **haitammk0708@gmail.com**
-
-- ⚡ Fun fact **I'm A Basketball Player and Part Time Content Creator**
 
 <h3 align="left">Connect with me:</h3>
 
