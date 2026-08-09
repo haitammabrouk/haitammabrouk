@@ -9,8 +9,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/haitam-mabrouk-9a182a27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haitam mabrouk" height="30" width="40" /></a>
-<a href="https://instagram.com/software_bdarija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="software_bdarija" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haitammk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haitammk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
