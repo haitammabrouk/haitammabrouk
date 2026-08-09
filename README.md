@@ -1,6 +1,6 @@
 # Hi, I'm Haitam 👋
 
-**Software Engineer | Backend • DevOps • Systems**
+**Software Engineer | Backend • DevOps**
 
 I enjoy building things and understanding how they work under the hood.
 
