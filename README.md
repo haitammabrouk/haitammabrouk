@@ -15,4 +15,4 @@ Lately, I've been spending my free time exploring **Go, Linux internals, and sys
 
 ### Find me
 
-[LinkedIn]([https://www.linkedin.com/in/haitam-mabrouk/](https://www.linkedin.com/in/haitam-mabrouk-9a182a27a/)
+[💼 LinkedIn](https://www.linkedin.com/in/haitam-mabrouk-9a182a27a/)
