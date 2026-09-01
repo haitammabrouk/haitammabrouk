@@ -7,9 +7,7 @@ I write software, break things, fix them, and occasionally wonder **why I decide
 🐧 **Linux lover**  
 🔧 **Always building something**
 
-I like learning by getting my hands dirty — picking an idea, building it, breaking it, and figuring out what went wrong.
-
-Lately, I've been spending my free time exploring **Go, Linux internals, and systems programming**. I'm still learning, but that's probably the fun part.
+Lately, I've been spending my free time exploring **Linux internals, and systems programming**. I'm still learning, but that's probably the fun part.
 
 > **Build. Break. Learn. Repeat.**
 
